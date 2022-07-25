@@ -1,0 +1,4 @@
+Instrucciones script en linux.
+click secundario en la carpeta y abrir en terminal
+aplicar los permisos para ejecutarlo mediante chmod 777 script.sh
+ejecutar mediante la opcion ./script.sh
